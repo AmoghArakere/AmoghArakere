@@ -23,7 +23,6 @@
 <a href="https://instagram.com/_amogh_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amogh_an" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/xu_amo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xu_amo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amoghzhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amoghzhei" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amozhei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amozhei" height="30" width="40" /></a>
 <a href="https://discord.gg/790897984120029194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="790897984120029194" height="30" width="40" /></a>
 </p>
 
