@@ -30,5 +30,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amogharakere&show_icons=true&locale=en&layout=compact" alt="amogharakere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amogharakere&" alt="amogharakere" /></p>
-
-
