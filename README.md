@@ -31,4 +31,4 @@
 
 
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=amogharakere&theme=dark" alt="amogharakere" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amogharakere&theme=dark" alt="amogharakere" /></p>
