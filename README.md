@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tech_kun" target="blank"><img src="https://img.shields.io/twitter/follow/tech_kun?logo=twitter&style=for-the-badge" alt="tech_kun" /></a> </p>
 
-- 🔭 I’m currently working on my **Cloud Computing**
+- 🔭 I’m currently working on **Cloud Computing**
 
 - 🌱 I’m currently learning **AWS**
 
