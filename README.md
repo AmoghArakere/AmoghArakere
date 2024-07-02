@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/tech_kun" target="blank"><img src="https://img.shields.io/twitter/follow/tech_kun?logo=twitter&style=for-the-badge" alt="tech_kun" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Computing**
+- 🔭 I’m currently working on **LLM Application**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Langchain**
 
 - 👨‍💻 All of my projects are available at [am0gh.github.io](am0gh.github.io)
 
