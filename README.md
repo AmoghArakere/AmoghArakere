@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Amogh Arakere</h1>
 <h3 align="center">A Passionate Full-stack Mern Dev | Java | Data Analyst </h3>
-<img align="right" alt="Coding" width="500" height="300" src="https://github.com/user-attachments/assets/d5aa535f-473b-4355-88ac-fddcc6e795ec">
+<img align="right" alt="Coding" width="500" height="300" src="https://github.com/user-attachments/assets/bf0d2bcc-ffa6-4ed7-86b3-d7f88f467d12">
 
 
 <p align="left"> <a href="https://twitter.com/tech_kun" target="blank"><img src="https://img.shields.io/twitter/follow/tech_kun?logo=twitter&style=for-the-badge" alt="tech_kun" /></a> </p>
