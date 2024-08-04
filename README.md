@@ -1,4 +1,4 @@
-<img src="https://github.com/AmoghArakere/AmoghArakere/assets/90240269/ff586cf9-fcbd-40cd-bad6-9df431bf139f" width=1000px height=250px />
+<img src="https://i.pinimg.com/originals/da/58/6b/da586bba68ce2b792e669b80cc4eba76.png" width=1000px height=350px />
 
 
 <h1 align="center">Hi 👋, I'm Amogh Arakere</h1>
