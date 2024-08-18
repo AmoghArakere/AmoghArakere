@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Langchain**
 
-- 👨‍💻 All of my projects are available at [am0gh.github.io](am0gh.github.io)
+- 👨‍💻 Check out my portfolio [[am0gh.github.io](am0gh.github.io)](https://amogharakere.github.io/Portfolio-website/)
 
 - 📫 How to reach me **amogh.nagaraj03@gmail.com**
 
