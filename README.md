@@ -42,4 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogharakere&theme=dark" alt="amogharakere" />
 </p>
 
+[![An image of @amogharakere's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amogharakere)](https://holopin.io/@amogharakere)
+
 
