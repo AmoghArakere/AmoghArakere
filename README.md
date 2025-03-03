@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on **AI Agents System**<br><br>🌱 I’m currently learning **Azure**<br><br>👨‍💻 Check out my portfolio <a href="https://amogharakere.github.io/Portfolio-website/">Here</a><br><br>📫 How to reach me **amogh.nagaraj03@gmail.com**<br><br>🎮 I love to watch animes and play video games 
+ 🔭 I’m currently working on **n8n**<br><br>🌱 I’m currently learning **Azure**<br><br>👨‍💻 Check out my portfolio <a href="https://amogharakere.github.io/Portfolio-website/">Here</a><br><br>📫 How to reach me **amogh.nagaraj03@gmail.com**<br><br>🎮 I love to watch animes and play video games 
 
 
 ## 🌐 Socials:
